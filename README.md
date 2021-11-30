@@ -1,6 +1,6 @@
 ﻿# Collectibles-Map
 
-This is a small web project of a map representing in-game collectibles.
+This is a small web project of a map that represents in-game collectibles.
 
 It's purpose is to visualize the position of an object based on its coordinates. 
 
